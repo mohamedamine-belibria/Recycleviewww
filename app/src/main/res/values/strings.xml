@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Recyclevieww</string>
+    <string-array name="tit">
+        <item> Titre1</item>
+        <item> Titre1</item>
+
+        <item> Titre1</item>
+        <item> Titre1</item>
+        <item> Titre1</item>
+        <item> Titre1</item>
+
+    </string-array>
+    <string-array name="stit">
+        <item> sous Titre1</item>
+        <item>sous Titre1</item>
+
+        <item>sous Titre1</item>
+        <item>sous Titre1</item>
+        <item>sous Titre1</item>
+        <item>sous Titre1</item>
+
+    </string-array>
+</resources>
